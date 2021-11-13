@@ -1,0 +1,81 @@
+html {
+    background-color: rgb(131, 172, 65);
+}
+
+
+
+#page{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(227, 238, 130);
+    width: 700px;
+    height: 900px;
+    border-style: double;
+    border-width: 7px;
+    border-color: rgb(144, 124, 112);
+}
+
+
+
+h1 {
+    font-size: 275%;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+
+
+.heading {
+    text-align: center;
+    font-style: initial;
+    color: darkslategrey;
+}
+
+
+
+#episodes {
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(200, 238, 130);
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+#episode {
+    font-size: large;
+    color: darkgreen;
+}
+
+
+#discribing_book {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+    background-color:rgb(200, 238, 130);
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+p {
+    font-size: 120%;
+}
+
+#arts {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    text-align: center;
+    background-color: rgb(227, 238, 130);
+    width: 650px;
+    height: 100px;
+    padding: 10px;
+    color: darkslategrey;
+}
