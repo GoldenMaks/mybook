@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My book</title>
+        <link rel="stylesheet" href="https://goldenmaks.github.io/mybook.github.io/episodes.css">
+    </head>
+    <body>
+        <div id="page">
+            <h1 class = "heading" id = "main_heading"><a id="main_a" href="https://goldenmaks.github.io/mybook.github.io/mybook.html">Тут буде назва книжки</a></h1>
+            <h1 class = "heading" id = "heading_of_episode">Розділ 1: Небесний скарб</h1>
+            
+            <div id = "text">
+
+                <table>
+                    <thead>
+                        <td>
+                            <th id = "th1"><button id = "last_page"><a href="https://goldenmaks.github.io/mybook.github.io/mybook.html"><<<Основна сторінка</a></button></th>
+                            <th id = "th2"><div id = "current_page"><b>1 сторінка</b></div></th>
+                            <th id = "th3"><button id = "next_page"><a href="https://goldenmaks.github.io/mybook.github.io/1_episode_2.html">Наступна сторінка>>></a></button></th>
+                        </td>
+                    </thead>
+                </table>
+
+                <p> 
+                    В цей самий час одна із вожатих вийшла із палатки подихати свіжим повітрям. Вона побачила рудоволосу дівчину в якої очі були переповнені жахом. 
+                    - Марусе, що з тобою? 
+                    - Ангеліно Миколаївна, я бачила позаду себе гігантську темну постать із червоними очима. На жаль я не змогла розгледіти її добре, але це було якесь жахливе створіння... Воно приближалося до мене, але чомусь зникло. - сказала із сльозами на очах Маша. - Я думала, що.. що.. воно хотіло мене вбити...
+                    - Бідненька. Ти напевне дуже налякалася. Хто ж так жорстоко міг над тобою пожартувати?
+                    - Я не думаю, що хтось із наших спроможний на такі жарти. Це зовсім не смішно і ця істота... Вона... була, ніби... справжня! Я вам клянуся!
+                    - Послухай мене, дівчинко. Я не заперечую, що це жахливо. Але ніяких таких створіень не існує. Мені здається, що це не може бути щось гірше від жорсткого жарту.
+                </p>
+            </div>
+
+            <div id = "arts">
+                <h4>Ви можете переглянути фан-арти до цієї книги за ось цим <a href="https://goldenmaks.github.io/mybook.github.io/fanarts.html">посиланням</a> </h4>
+                <p><h4>Сайт і книгу написав Анрущенко Максим</h4></p>
+            </div>
+        </div>
+    </body>
+</html>
