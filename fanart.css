@@ -1,0 +1,109 @@
+html {
+    background-color: rgb(131, 172, 65);
+}
+
+
+#page {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(227, 238, 130);
+    width: 700px;
+    height: 950px;
+    border-style: double;
+    border-width: 7px;
+    border-color: rgb(144, 124, 112);
+}
+    
+
+.heading {
+    text-align: center;
+    font-style: initial;
+    color: darkslategray;
+}
+
+#heading_of_episode {
+    text-decoration: underline;
+}
+
+
+#text {
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(200, 238, 130);
+    width: 550px;
+    height: 620px;
+    padding: 15px;
+}
+
+#main_heading {
+    font-size: 300%;
+}
+
+#main_a {
+    text-decoration: none;
+    color: darkslategrey;
+}
+
+p {
+    font-size: 125%;
+}
+
+#arts {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    text-align: center;
+    background-color: rgb(227, 238, 130);
+    width: 650px;
+    height: 100px;
+    padding: 10px;
+}
+
+
+
+#current_page {
+    float: center;
+    text-align: center;
+    width: 100px;
+    height: 20px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(164, 238, 130);
+}
+
+
+button {
+    border-color: rgb(49, 209, 129);
+    border-radius: 6px;
+    background-color: floralwhite;
+}
+
+#th1 {
+    width: 175px;
+}
+
+#th2 {
+    width: 175px;
+}
+
+#th3 {
+    width: 175px;
+}
+
+
+
+
+
+.png {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 18px;
+    border-radius: 7px;
+}
+
+.th_text {
+    color: rgb(66, 66, 66);
+}
